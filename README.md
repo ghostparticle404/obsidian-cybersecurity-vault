@@ -57,8 +57,6 @@ bash create_cybersecurity_vault.sh "$HOME/Documents/Cybersecurity Vault"
 
 Replace the example vault path with your own.
 
-**Note:** The script must be uploaded to this repository before these instructions can be used.
-
 ## 🔐 Security and Safety
 The original folder-creation script:
 
